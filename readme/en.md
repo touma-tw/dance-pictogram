@@ -58,13 +58,25 @@ Go to the **Overlay** tab and press the big **Start** button. Then, in VRChat:
 - **Pictogram / Real** — which picture style to show.
 
 There is also a small panel floating over the back of your **right hand**. Look at a button
-for a moment to press it — VRChat holds the controllers, so gaze is the only input available.
-It has **PIN** (re-place the strip without leaving VR) and **STYLE**.
+for a moment to press it. It has **PIN** (re-place the strip without switching back to the
+desktop) and **STYLE**.
 
 ## 4. While you dance
 
 The app knows which routine is playing by reading the VRChat log, and knows *where* in the
 routine you are by listening to your speakers. You do not have to tell it anything.
+
+**If VRChat is not installed in the default location**, the app cannot find the log and will
+fall back to identifying routines by sound alone — which cannot tell apart routines that share
+a soundtrack. Fix it by editing `config.toml` next to the app, in the `[log]` section:
+
+```toml
+[log]
+dir = '%USERPROFILE%\AppData\LocalLow\VRChat\VRChat'   # <- change this line
+```
+
+Point it at the folder holding your `output_log_*.txt` files. Keep the single quotes — they
+stop the backslashes being read as escape characters. Save the file and restart the app.
 
 **Multi-dancer routines** show one lane per coach. When one starts, a picker appears in front
 of you — look at the coach you want to follow for two seconds.
