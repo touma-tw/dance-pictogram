@@ -7,6 +7,9 @@ games, generated automatically for routines that never had one.
 Built for [PyPyDance](https://pypydance.com/) in VRChat. Works as a SteamVR overlay, as a
 desktop window, and as a Spout source for OBS.
 
+**Full user guide:** [English](readme/en.md) · [繁體中文](readme/tc.md) ·
+[简体中文](readme/sc.md) · [日本語](readme/jp.md) · [한국어](readme/ko.md)
+
 ![strip](https://raw.githubusercontent.com/touma-tw/dance-pictogram/main/docs/strip.png)
 
 ## Getting it
