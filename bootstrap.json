@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "_comment": "Version pointer for the Dance Pictogram app. The app reads this at startup to learn where the song catalogue lives and whether a newer build exists. Published at the repo root so it can be edited without cutting a release. Mirrored by jsDelivr for regions where raw.githubusercontent.com is blocked.",
+  "index_url": "https://github.com/touma-tw/dance-pictogram/releases/download/index/index.json",
+  "app": {
+    "version": "0.0.0",
+    "url": null,
+    "sha256": null,
+    "bytes": 0,
+    "notes_url": "https://github.com/touma-tw/dance-pictogram/releases",
+    "_comment": "version 0.0.0 with a null url means 'nothing published yet' - the client treats this as 'you are up to date'. Filled in by the first packaged release."
+  }
+}
