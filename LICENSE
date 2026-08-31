@@ -1,0 +1,67 @@
+Dance Pictogram — Cue Library
+Data licence, version 1.0
+
+WHAT THIS COVERS
+
+The files in this repository: index.json, the ZIP packs, and everything inside them
+(manifest.json, beats.json, fp.npz, pictograms/, real/). Referred to below as "the Data".
+
+The Dance Pictogram application is licensed separately and is not covered here.
+
+
+GRANT
+
+You may download, store, and use the Data for personal, non-commercial purposes — practising
+and learning dance routines, on your own devices, with the Dance Pictogram application or
+your own tools.
+
+No fee is charged for this.
+
+
+CONDITIONS
+
+You may not:
+
+  1. sell, license, or otherwise commercialise the Data, in whole or in part, or include it
+     in a paid or ad-supported product or service;
+
+  2. redistribute the Data or bulk mirrors of it. Link to this repository instead. (This is
+     not about control: a mirror cannot receive the takedowns and corrections described
+     below, so it degrades into a copy nobody can fix.)
+
+  3. use the Data to train, fine-tune, or evaluate machine-learning models;
+
+  4. present the Data, or anything derived from it, as your own work, or strip the attribution
+     and provenance information in index.json and the manifests.
+
+
+THIRD-PARTY RIGHTS
+
+The Data is derived from dance videos published on PyPyDance. The choreography, the
+performances, the music, and the video recordings remain the property of their respective
+rights holders. Nothing here grants you any right in them.
+
+The `real/` images are derived directly from frames of those videos. The `pictograms/` images
+are original artwork produced by this project's renderer.
+
+No audio and no video is distributed here, and neither can be reconstructed from these files.
+The `fp.npz` fingerprints are one-way spectral landmark hashes, not recordings.
+
+If you hold rights in any routine represented here and want it removed, open a discussion on
+this repository or contact the maintainer. Removal requests are honoured.
+
+
+NO WARRANTY
+
+The Data is provided "as is", without warranty of any kind. The cues are generated
+automatically and are frequently imperfect. Dancing is physical activity: use your own
+judgement, and do not rely on these cues for anything where being wrong would matter.
+
+To the extent permitted by law, the maintainer is not liable for any claim, damage, or other
+liability arising from the Data or its use.
+
+
+CHANGES
+
+Later versions of this licence may be published for later releases. The version distributed
+alongside a given release governs that release.
