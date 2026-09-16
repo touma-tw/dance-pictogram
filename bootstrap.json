@@ -3,10 +3,13 @@
   "_comment": "Version pointer for the Dance Pictogram app. The app reads this at startup to learn where the song catalogue lives and whether a newer build exists. Published at the repo root so it can be edited without cutting a release. Mirrored by jsDelivr for regions where raw.githubusercontent.com is blocked.",
   "index_url": "https://github.com/touma-tw/dance-pictogram/releases/download/index/index.json",
   "app": {
-    "version": "1.0.2",
-    "url": "https://github.com/touma-tw/dance-pictogram/releases/download/app-1.0.2/DancePictogram-1.0.2.zip",
-    "sha256": "3213494235ca85a21e6505f671e9be2b154f20ce1b1789c325b23323d3cae6cb",
+    "version": "1.0.3",
+    "url": "https://pub-78e1697ecd234f1690646ae851e1ecec.r2.dev/app/DancePictogram-1.0.3.zip",
+    "sha256": "d6f6246d1d308a0cd7922d227226c2d15f60a93a92981a3f1ef6f22f1bbb76dd",
     "bytes": 102401640,
-    "notes_url": "https://github.com/touma-tw/dance-pictogram/releases"
+    "notes_url": "https://github.com/touma-tw/dance-pictogram/releases",
+    "mirrors": [
+      "https://github.com/touma-tw/dance-pictogram/releases/download/app-1.0.3/DancePictogram-1.0.3.zip"
+    ]
   }
 }
