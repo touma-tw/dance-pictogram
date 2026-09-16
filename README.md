@@ -4,8 +4,8 @@ Move cues for dancing along in VR. A strip of pictograms scrolls beside the vide
 what the next move is a moment before it happens — the same idea as the cue bar in dance
 games, generated automatically for routines that never had one.
 
-Built for [PyPyDance](https://pypydance.com/) in VRChat. Works as a SteamVR overlay, as a
-desktop window, and as a Spout source for OBS.
+Built for [PyPyDance](https://vrchat.com/home/world/wrld_f20326da-f1ac-45fc-a062-609723b097b1/info) 
+in VRChat. Works as a SteamVR overlay, as a desktop window, and as a Spout source for OBS.
 
 **Full user guide:** [English](readme/en.md) · [繁體中文](readme/tc.md) ·
 [简体中文](readme/sc.md) · [日本語](readme/jp.md) · [한국어](readme/ko.md)
