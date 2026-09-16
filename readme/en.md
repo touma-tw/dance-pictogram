@@ -1,7 +1,7 @@
 # Dance Pictogram — User Guide
 
 A strip of move cues scrolls beside the video while you dance, showing what comes next a
-moment before it happens. Built for [PyPyDance](https://pypydance.com/) in VRChat.
+moment before it happens. Built for [PyPyDance](https://vrchat.com/home/world/wrld_f20326da-f1ac-45fc-a062-609723b097b1/info) in VRChat.
 
 **Languages:** English · [繁體中文](tc.md) · [简体中文](sc.md) · [日本語](jp.md) · [한국어](ko.md)
 
