@@ -1,7 +1,7 @@
 # Dance Pictogram — 사용 설명서
 
 춤추는 동안 영상 옆으로 동작 큐가 흘러가며, 각 동작이 일어나기 직전에 무엇을 할지 알려줍니다.
-VRChat의 [PyPyDance](https://pypydance.com/)를 위해 만들어졌습니다.
+VRChat의 [PyPyDance](https://vrchat.com/home/world/wrld_f20326da-f1ac-45fc-a062-609723b097b1/info)를 위해 만들어졌습니다.
 
 **언어:** [English](en.md) · [繁體中文](tc.md) · [简体中文](sc.md) · [日本語](jp.md) · 한국어
 
