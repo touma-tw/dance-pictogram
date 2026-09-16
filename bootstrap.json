@@ -5,8 +5,8 @@
   "app": {
     "version": "1.0.3",
     "url": "https://pub-78e1697ecd234f1690646ae851e1ecec.r2.dev/app/DancePictogram-1.0.3.zip",
-    "sha256": "da4e7e0232a3d370dd5d4e0c246957c1ccca6998be5efc7298be9219afb86e0f",
-    "bytes": 102404093,
+    "sha256": "527b3a5d5e3bfd80387c4f0443d0eee1f8e5c2d14549a5dd62d963dbbe60206e",
+    "bytes": 102405271,
     "notes_url": "https://github.com/touma-tw/dance-pictogram/releases",
     "mirrors": [
       "https://github.com/touma-tw/dance-pictogram/releases/download/app-1.0.3/DancePictogram-1.0.3.zip"
