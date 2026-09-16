@@ -1,7 +1,7 @@
 # Dance Pictogram — 使用說明
 
 跳舞時,影片旁邊會捲動一條動作提示,在每個動作發生的前一刻告訴你接下來要做什麼。
-為 VRChat 的 [PyPyDance](https://pypydance.com/) 而做。
+為 VRChat 的 [PyPyDance](https://vrchat.com/home/world/wrld_f20326da-f1ac-45fc-a062-609723b097b1/info) 而做。
 
 **語言:** [English](en.md) · 繁體中文 · [简体中文](sc.md) · [日本語](jp.md) · [한국어](ko.md)
 
