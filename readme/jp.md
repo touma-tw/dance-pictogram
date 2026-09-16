@@ -1,7 +1,7 @@
 # Dance Pictogram — 使い方
 
 踊っている間、映像の横に動きのキューが流れ、次の動作が起きる少し前に何をするかを教えてくれます。
-VRChat の [PyPyDance](https://pypydance.com/) 向けに作られています。
+VRChat の [PyPyDance](https://vrchat.com/home/world/wrld_f20326da-f1ac-45fc-a062-609723b097b1/info) 向けに作られています。
 
 **言語:** [English](en.md) · [繁體中文](tc.md) · [简体中文](sc.md) · 日本語 · [한국어](ko.md)
 
